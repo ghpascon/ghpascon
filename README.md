@@ -41,4 +41,4 @@
   </a>
 </div>
 
-![snake animation](https://github.com/ghpascon/ghpascon/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/ghpascon/ghpascon/blob/main/.github/workflows/snake.yml)
