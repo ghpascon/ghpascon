@@ -41,9 +41,4 @@
   </a>
 </div>
 <br clear="both">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghpascon/ghpascon/output/pacman-contribution-graph.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ghpascon/ghpascon/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ghpascon/ghpascon/output/pacman-contribution-graph.svg">
-</picture>
 <img src="https://raw.githubusercontent.com/ghpascon/ghpascon/output/snake.svg" alt="Snake animation" />
