@@ -42,4 +42,4 @@
 </div>
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ghpascon/ghpascon/output/snake2.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ghpascon/ghpascon/output/snake.svg" alt="Snake animation" />
