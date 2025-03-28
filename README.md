@@ -1,6 +1,7 @@
 <h2 align="left">Hi 👋! My name is Gabriel and I'm an Engineer from São Paulo, Brazil.</h2>
 
 ###
+<img src="https://github-profile-trophy.vercel.app/?username=ghpascon&theme=dracula&no-frame=false&no-bg=false&margin-w=5" />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ghpascon&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
