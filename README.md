@@ -1,58 +1,62 @@
 # 👋 Hi, I’m Gabriel Pascon
 
-**Python Developer | Backend & Cloud Solutions | IoT & Embedded Systems | Machine Learning/AI**
+**Python Developer | FastAPI & SQLAlchemy | Backend & Cloud Solutions | IoT & Embedded Systems | Machine Learning/AI**
 
 ---
 
 ## 🌎 About Me
 
-I’m a passionate **Python developer** with over 3 years of experience building **scalable APIs, backend systems, and hardware-software integrations**. My work spans **IoT devices, embedded systems (C++ and PLCs), RFID, BLE, and TCP communication**, along with **cloud deployment, data pipelines, and machine learning applications**.  
+I’m a **Python developer** passionate about building **scalable backend systems, APIs, and AI-powered solutions**. I specialize in integrating **hardware, cloud, and software systems**, connecting IoT devices, RFID readers, and industrial automation to databases and web applications.  
 
-Currently, I’m advancing my expertise through a **Postgraduate in Machine Learning Engineering** at FIAP, focusing on production-ready ML solutions and AI-driven systems. I enjoy transforming complex ideas into **practical, robust, and efficient solutions**.
+I’m currently advancing my expertise through a **Postgraduate in Machine Learning Engineering** at FIAP, focusing on deploying **production-ready ML and AI solutions**.  
+
+I love solving complex problems and delivering solutions that are **robust, efficient, and practical**, bridging the gap between **hardware, software, and data-driven insights**.
 
 ---
 
 ## 💻 Technical Skills
 
-- **Python**: FastAPI, Flask, SQLAlchemy, Jinja2  
-- **Databases**: MySQL, PostgreSQL, SQL Server, IBM DB2, MongoDB  
+- **Python & Frameworks**: FastAPI, Flask, SQLAlchemy, Jinja2  
+- **Databases**: MySQL, PostgreSQL, SQL Server, IBM DB2, MongoDB (SQL & NoSQL)  
 - **Caching & Messaging**: Redis  
 - **Cloud & DevOps**: AWS (S3, Lambda, Glue, EC2, Athena), Docker  
+- **Machine Learning & AI**: Supervised, Unsupervised, Reinforcement Learning, Computer Vision, ML pipelines, ETL  
 - **Embedded & IoT**: C++ for microcontrollers, Ladder logic for PLCs, RFID, BLE, Serial, TCP sockets  
-- **Data & ML**: Machine Learning, Computer Vision, Data Pipelines, ETL  
-- **Frontend & Integration**: Web dashboards with Bootstrap, system-to-system integrations  
+- **Web & Integration**: API development, system-to-system integrations, dashboards with Bootstrap  
 
 ---
 
-## 🚀 Professional Experience
+## 🚀 Work Experience
 
 **Automation Technician – SmartX Tags e Soluções IoT Ltda**  
-- Developed **C++ firmware** for IoT devices and microcontrollers.  
-- Created **Python middleware** to connect RFID and IoT devices with client systems, databases, and APIs.  
-- Implemented **PLC programs in Ladder logic** for industrial automation.  
-- Managed **communication protocols** (BLE, TCP, Serial) for real-time, reliable connectivity.  
-- Collaborated on end-to-end **hardware-software integration**, optimizing device performance and scalability.  
+- Program microcontrollers with **C++** and develop **PLC Ladder logic** for industrial automation.  
+- Build **Python middleware with FastAPI** connecting RFID and IoT devices to **databases and client software**.  
+- Implement communication protocols (**BLE, TCP, Serial**) for reliable device connectivity.  
+- Manage **SQL and NoSQL databases** with **SQLAlchemy**, ensuring scalable data integration.  
+- Collaborate on **hardware-software-cloud integration**, optimizing system performance and reliability.  
 
 **Electronics & Automation Technician – Elevadores Atlas Schindler Ltda**  
-- Performed preventive and corrective maintenance on electronic and mechanical systems.  
-- Gained hands-on experience with **industrial sensors, embedded systems, and automation technologies**.  
+- Executed preventive and corrective maintenance on electronic and mechanical systems.  
+- Gained hands-on experience with **sensors, embedded systems, and industrial automation technologies**.  
 
 ---
 
 ## 🎓 Education
 
 - **Postgraduate in Machine Learning Engineering** – FIAP (2025–2026)  
-- **Bachelor's in Control and Automation Engineering** – FMU (2020–2024) – **Academic Laureate**  
+  - Focus: ML models deployment, data pipelines, AWS cloud integration  
+- **Bachelor’s in Control and Automation Engineering** – FMU (2020–2024) – **Academic Laureate**  
 - **Technical Degree in Mechatronics** – SENAI (2018–2020)  
+  - Focus: C++ programming for microcontrollers, embedded systems, robotics  
 
 ---
 
-## 🌟 Achievements & Highlights
+## 🌟 Achievements
 
-- Recipient of **Laurea Acadêmica** for academic excellence  
-- Experience integrating **hardware, cloud, and web systems** in production environments  
-- Built **scalable APIs** serving multiple clients with **Redis caching and database integration**  
-- Developed **computer vision projects** for object detection and barcode recognition  
+- Awarded **Laurea Acadêmica** for academic excellence  
+- Extensive experience in **building APIs, backend systems, and IoT integrations**  
+- Developed **ML and computer vision solutions** for real-world applications  
+- Strong track record in **SQL/NoSQL database management and cloud integration**  
 
 ---
 
@@ -62,4 +66,8 @@ Currently, I’m advancing my expertise through a **Postgraduate in Machine Lear
 - 🌐 [LinkedIn](https://www.linkedin.com/in/gabriel-pascon-218ba51b6/)  
 - 💻 [GitHub](https://github.com/ghpascon)  
 
+---
 
+## 📌 Open to
+
+Remote **Python Developer** roles where I can apply my expertise in **FastAPI, SQLAlchemy, ML/AI, cloud, and IoT integration** to build **robust, scalable, and impactful solutions**.
