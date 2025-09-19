@@ -8,9 +8,7 @@
 
 I’m a **Python developer** passionate about building **scalable backend systems, APIs, and AI-powered solutions**. I specialize in integrating **hardware, cloud, and software systems**, connecting IoT devices, RFID readers, and industrial automation to databases and web applications.  
 
-I’m currently advancing my expertise through a **Postgraduate in Machine Learning Engineering** at FIAP, focusing on deploying **production-ready ML and AI solutions**.  
-
-I love solving complex problems and delivering solutions that are **robust, efficient, and practical**, bridging the gap between **hardware, software, and data-driven insights**.
+Currently, I work as an **Automation Engineer at SmartX Tags**, developing **Python software, FastAPI middleware, and database integrations** to connect IoT and RFID devices with client systems. I enjoy transforming **complex technical challenges into robust, practical solutions** that deliver real-world impact.
 
 ---
 
@@ -26,18 +24,14 @@ I love solving complex problems and delivering solutions that are **robust, effi
 
 ---
 
-## 🚀 Work Experience
+## 🚀 Current Role
 
-**Automation Technician – SmartX Tags e Soluções IoT Ltda**  
-- Program microcontrollers with **C++** and develop **PLC Ladder logic** for industrial automation.  
-- Build **Python middleware with FastAPI** connecting RFID and IoT devices to **databases and client software**.  
-- Implement communication protocols (**BLE, TCP, Serial**) for reliable device connectivity.  
-- Manage **SQL and NoSQL databases** with **SQLAlchemy**, ensuring scalable data integration.  
-- Collaborate on **hardware-software-cloud integration**, optimizing system performance and reliability.  
-
-**Electronics & Automation Technician – Elevadores Atlas Schindler Ltda**  
-- Executed preventive and corrective maintenance on electronic and mechanical systems.  
-- Gained hands-on experience with **sensors, embedded systems, and industrial automation technologies**.  
+**Automation Engineer – SmartX Tags e Soluções IoT Ltda**  
+- Develop **Python middleware and FastAPI services** to integrate **RFID and IoT devices** with **client databases and applications**.  
+- Design and implement **SQL and NoSQL database solutions** using **SQLAlchemy**, ensuring scalable and reliable data management.  
+- Build and maintain **hardware-software integration systems**, connecting microcontrollers, sensors, and industrial devices to backend platforms.  
+- Implement **communication protocols** (BLE, TCP, Serial) to enable real-time, accurate data exchange between devices and software.  
+- Contribute to **full-stack development projects**, including dashboards, web integrations, and API endpoints for client-facing applications.  
 
 ---
 
@@ -65,9 +59,3 @@ I love solving complex problems and delivering solutions that are **robust, effi
 - 📧 [Email](mailto:gh.pascon@gmail.com)  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/gabriel-pascon-218ba51b6/)  
 - 💻 [GitHub](https://github.com/ghpascon)  
-
----
-
-## 📌 Open to
-
-Remote **Python Developer** roles where I can apply my expertise in **FastAPI, SQLAlchemy, ML/AI, cloud, and IoT integration** to build **robust, scalable, and impactful solutions**.
