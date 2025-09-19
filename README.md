@@ -1,48 +1,65 @@
-<h2 align="left">Hi 👋! My name is Gabriel and I'm an Engineer from São Paulo, Brazil.</h2>
+# 👋 Hi, I’m Gabriel Pascon
 
-###
+**Python Developer | Backend & Cloud Solutions | IoT & Embedded Systems | Machine Learning/AI**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghpascon&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ghpascon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+## 🌎 About Me
 
-<img align="right" height="150" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"  />
+I’m a passionate **Python developer** with over 3 years of experience building **scalable APIs, backend systems, and hardware-software integrations**. My work spans **IoT devices, embedded systems (C++ and PLCs), RFID, BLE, and TCP communication**, along with **cloud deployment, data pipelines, and machine learning applications**.  
 
-###
+Currently, I’m advancing my expertise through a **Postgraduate in Machine Learning Engineering** at FIAP, focusing on production-ready ML solutions and AI-driven systems. I enjoy transforming complex ideas into **practical, robust, and efficient solutions**.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-</div>
+---
 
-###
+## 💻 Technical Skills
 
-<div align="left">
-  <a href="https://www.instagram.com/g.pascon/#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="gh.pascon@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/gabriel-pascon-218ba51b6/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-<br clear="both">
-<img src="https://raw.githubusercontent.com/ghpascon/ghpascon/output/snake.svg" alt="Snake animation" />
+- **Python**: FastAPI, Flask, SQLAlchemy, Jinja2  
+- **Databases**: MySQL, PostgreSQL, SQL Server, IBM DB2, MongoDB  
+- **Caching & Messaging**: Redis  
+- **Cloud & DevOps**: AWS (S3, Lambda, Glue, EC2, Athena), Docker  
+- **Embedded & IoT**: C++ for microcontrollers, Ladder logic for PLCs, RFID, BLE, Serial, TCP sockets  
+- **Data & ML**: Machine Learning, Computer Vision, Data Pipelines, ETL  
+- **Frontend & Integration**: Web dashboards with Bootstrap, system-to-system integrations  
 
-<br clear="both">
-<img src="https://github-profile-trophy.vercel.app/?username=ghpascon&theme=dracula&no-frame=false&no-bg=false&margin-w=5" />
+---
+
+## 🚀 Professional Experience
+
+**Automation Technician – SmartX Tags e Soluções IoT Ltda**  
+- Developed **C++ firmware** for IoT devices and microcontrollers.  
+- Created **Python middleware** to connect RFID and IoT devices with client systems, databases, and APIs.  
+- Implemented **PLC programs in Ladder logic** for industrial automation.  
+- Managed **communication protocols** (BLE, TCP, Serial) for real-time, reliable connectivity.  
+- Collaborated on end-to-end **hardware-software integration**, optimizing device performance and scalability.  
+
+**Electronics & Automation Technician – Elevadores Atlas Schindler Ltda**  
+- Performed preventive and corrective maintenance on electronic and mechanical systems.  
+- Gained hands-on experience with **industrial sensors, embedded systems, and automation technologies**.  
+
+---
+
+## 🎓 Education
+
+- **Postgraduate in Machine Learning Engineering** – FIAP (2025–2026)  
+- **Bachelor's in Control and Automation Engineering** – FMU (2020–2024) – **Academic Laureate**  
+- **Technical Degree in Mechatronics** – SENAI (2018–2020)  
+
+---
+
+## 🌟 Achievements & Highlights
+
+- Recipient of **Laurea Acadêmica** for academic excellence  
+- Experience integrating **hardware, cloud, and web systems** in production environments  
+- Built **scalable APIs** serving multiple clients with **Redis caching and database integration**  
+- Developed **computer vision projects** for object detection and barcode recognition  
+
+---
+
+## 🔗 Connect with Me
+
+- 📧 [Email](mailto:gh.pascon@gmail.com)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/gabriel-pascon-218ba51b6/)  
+- 💻 [GitHub](https://github.com/ghpascon)  
+
 
